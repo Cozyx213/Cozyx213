@@ -38,17 +38,3 @@ I love solving tech problems and building projects around JavaScript, Python, Dj
 </p>
 
 ---
-
-## Resume Highlights
-
-- **Education:** Bachelor of Science in Computer Science, Cebu Institute of Technology - University
-  - Awarded the DOST-SEI Merit Scholarship
-- **Volunteer Work:** 
-  - **Full Stack Developer** at AI Pilipinas Cebu Chapter (Aug 2024 – Present)  
-    - Projects: Enhanced search functionality & filtering, integrated design from Figma, improved performance by reducing API calls, etc.  
-  - **Web Developer** at Argao National High School (Jan 2024 – April 2024)  
-    - Created ANHSLINK—a comprehensive educational web portal for communication, administration, and digital resources.
-- **Projects:** 
-  - [FLATAPS](https://github.com/Cozyx213/FLATAPS) – A flashcard application for memorizing periodic table elements, built using Flask, HTML, JS, Tailwind, and a leaderboard system.
-
-Feel free to **clone/fork** my work and let’s collaborate on something cool!
