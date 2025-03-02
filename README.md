@@ -23,7 +23,7 @@
     🌱 <strong>Currently learning:</strong> Next.js, Express.js, and advanced backend patterns <br/>
     🤝 <strong>Open for:</strong> Collaborations & volunteering <br/>
     💬 <strong>Reach me at:</strong> bajentingjackie@gmail.com <br/>
-    ⚡ <strong>Fun fact:</strong> I use Arch Linux (by the way …)
+  
   </em>
 </p>
 
