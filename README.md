@@ -11,7 +11,7 @@
 
 <p align="center">
   <strong id="typing-text">Full Stack Developer</strong> based in the Philippines,
-  currently volunteering at <a href="https://github.com/AI-Pilipinas](https://www.facebook.com/AIPilipinasCebu">AI Pilipinas Cebu Chapter</a>.<br/>
+  currently volunteering at <a href="https://www.facebook.com/AIPilipinasCebu">AI Pilipinas Cebu Chapter</a>.<br/>
   I love solving tech problems and building projects around JavaScript, Python, Django, and more.
 </p>
 
