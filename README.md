@@ -58,6 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-plain.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40" style="color:blue filter: invert(38%) sepia(93%) saturate(1843%) hue-rotate(180deg) brightness(92%) contrast(97%);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-plain.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40" style="color:blue; filter: invert(38%) sepia(93%) saturate(1843%) hue-rotate(180deg) brightness(92%) contrast(97%);"/>
 
 </p>
