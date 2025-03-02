@@ -62,7 +62,7 @@
 ---
 
 ### **💡 Fun Fact**
-🚀 I’m currently exploring **real-time backend technologies** for collaborative projects!
+🚀 I’m currently exploring new technologies and expanding my skillset in modern web development.
 
 ---
 
