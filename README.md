@@ -2,7 +2,7 @@
 
 <!-- Add a nice banner or header image if you'd like -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=14eAcHYg380WL2PrzjlfOWCZqWjgId0G5" alt="Pixel Art Banner" style="width:100%;" />
+  <img src="/moon.png" alt="Pixel Art Banner" style="width:100%;" />
 </p>
 
 <p align="center">
