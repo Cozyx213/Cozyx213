@@ -1,7 +1,9 @@
 <!-- Example: README.md -->
 
 <!-- Add a nice banner or header image if you'd like -->
-<img src="https://drive.google.com/file/d/14eAcHYg380WL2PrzjlfOWCZqWjgId0G5/view?usp=sharing" alt="Banner" style="width:100%;"/> 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=14eAcHYg380WL2PrzjlfOWCZqWjgId0G5" alt="Pixel Art Banner" style="width:100%;" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" id="wave-hand">
