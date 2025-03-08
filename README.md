@@ -60,7 +60,7 @@
   <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
   <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img class="glowing-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-plain.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>
-  <img class="icon" src="https://your-image-url/ollama-icon.svg" title="Ollama" alt="Ollama" width="40" height="40"/>
+  <img class="icon" src="https://ollama.com/public/ollama.png" title="Ollama" alt="Ollama" width="40" height="40"/>
   
 </p>
 
