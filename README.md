@@ -58,16 +58,17 @@
   <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
   <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
   <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
+  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="40" height="40"/>
   <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img class="glowing-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-plain.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>
-  <img class="icon" src="https://ollama.com/public/ollama.png" title="Ollama" alt="Ollama" width="40" height="40" color="white"/>
-  
+  <img class="icon" src="https://ollama.com/public/ollama.png" title="Ollama" alt="Ollama" width="40" height="40"/>
 </p>
 
 ---
 
 ### **💡 Fun Fact**
-🚀 I’m currently exploring new technologies and expanding my skillset in modern web development.
+🚀 I’m currently exploring google cloud platform and expanding my skillset in cloud technologies.
 
 ---
 
