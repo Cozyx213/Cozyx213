@@ -5,99 +5,89 @@
   <img src="/moon.png" alt="Pixel Art Banner" style="width:100%;" />
 </p>
 -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Jake Bajenting – Hacker-Themed README</title>
-  <style>
+
+ <style>
+    /* === Hacker-Terminal Theme === */
     body {
-      background-color: #040404;
-      color: #33ff33;
-      font-family: 'Courier New', Courier, monospace;
       margin: 0;
       padding: 2rem;
-      text-align: center;
+      background: #000;
+      color: #0f0;
+      font-family: "Courier New", monospace;
+      line-height: 1.4;
     }
     a {
-      color: #33ff33;
-      text-decoration: none;
-      border-bottom: 1px dashed #33ff33;
+      color: #0f0;
+      text-decoration: underline;
     }
-    h1, h3 {
-      margin-bottom: 0.5rem;
+    header, section, footer {
+      max-width: 800px;
+      margin: 0 auto 2rem;
+      text-align: center;
     }
-    #typing-text {
+    header img.wave {
+      width: 48px;
+      filter: drop-shadow(0 0 4px #0f0);
+    }
+    header h1 {
+      margin: 0.5rem 0;
+      font-size: 2.5rem;
+    }
+    #typing {
       display: inline-block;
-      animation: blink 1s steps(1) infinite;
+      border-right: 2px solid #0f0;
+      animation: blink 1s steps(2) infinite;
     }
-    @keyframes blink {
-      50% { opacity: 0; }
-    }
-    .badge {
-      margin: 0 0.5rem;
-      vertical-align: middle;
-      filter: drop-shadow(0 0 2px #33ff33);
-    }
+    @keyframes blink { 50% { border-color: transparent; } }
     hr {
       border: none;
-      border-top: 1px solid #33ff33;
-      margin: 2rem auto;
-      width: 80%;
-    }
-    .section {
+      border-top: 1px solid #0f0;
       margin: 2rem 0;
     }
+    .badges img {
+      vertical-align: middle;
+      margin: 0 0.5rem;
+      filter: drop-shadow(0 0 3px #0f0);
+    }
   </style>
-</head>
-<body>
+  <header>
+    <img class="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="👋"/>
+    <h1>Hi there, I’m Jake Bajenting</h1>
+    <p><span id="typing">Full Stack Developer</span> based in the Philippines</p>
+    <p>Volunteering at <a href="https://www.facebook.com/AIPilipinasCebu" target="_blank">AI Pilipinas Cebu Chapter</a></p>
+    <p>I love solving tech problems and building projects around JavaScript, Python, Django, and more.</p>
+  </header>
 
-  <div class="section">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-         width="48" alt="👋" />
-  </div>
+  <hr/>
 
-  <h1>Hi there, I’m Jake Bajenting</h1>
-  <p>
-    <strong id="typing-text">Full Stack Developer</strong> based in the Philippines,<br/>
-    currently volunteering at
-    <a href="https://www.facebook.com/AIPilipinasCebu" target="_blank">
-      AI Pilipinas Cebu Chapter
-    </a>.<br/>
-    I love solving tech problems and building projects around JavaScript, Python, Django, and more.
-  </p>
+  <section>
+    <p>🌱 <strong>Currently learning:</strong> Next.js, Express.js, advanced backend patterns</p>
+    <p>🤝 <strong>Open for:</strong> Collaborations & volunteering</p>
+    <p>💬 <strong>Reach me at:</strong> <a href="mailto:bajentingjackie@gmail.com">bajentingjackie@gmail.com</a></p>
+  </section>
 
-  <hr />
+  <hr/>
 
-  <div class="section">
-    <p>
-      🌱 <strong>Currently learning:</strong> Next.js, Express.js, and advanced backend patterns<br/>
-      🤝 <strong>Open for:</strong> Collaborations & volunteering<br/>
-      💬 <strong>Reach me at:</strong>
-      <a href="mailto:bajentingjackie@gmail.com">bajentingjackie@gmail.com</a>
+  <section>
+    <h3>Connect with Me</h3>
+    <p class="badges">
+      <a href="https://www.linkedin.com/in/jake-bajenting-902947274/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn–0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      <a href="https://github.com/Cozyx213" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub–161B22?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
+      </a>
+      <a href="mailto:bajentingjackie@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail–D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
+      </a>
     </p>
-  </div>
+  </section>
 
-  <hr />
+---
 
-  <h3>Connect with Me</h3>
-  <div class="section">
-    <a href="https://www.linkedin.com/in/jake-bajenting-902947274/" target="_blank">
-      <img class="badge" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"
-           alt="LinkedIn Badge" />
-    </a>
-    <a href="https://github.com/Cozyx213" target="_blank">
-      <img class="badge" src="https://img.shields.io/badge/-GitHub-161B22?style=flat&logo=GitHub&logoColor=white"
-           alt="GitHub Badge" />
-    </a>
-    <a href="mailto:bajentingjackie@gmail.com">
-      <img class="badge" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"
-           alt="Gmail Badge" />
-    </a>
-  </div>
 
-</body>
-</html>
+
+---
 
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
