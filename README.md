@@ -5,83 +5,46 @@
   <img src="/moon.png" alt="Pixel Art Banner" style="width:100%;" />
 </p>
 -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="48" alt="👋" />
+</p>
 
- <style>
-    /* === Hacker-Terminal Theme === */
-    body {
-      margin: 0;
-      padding: 2rem;
-      background: #000;
-      color: #0f0;
-      font-family: "Courier New", monospace;
-      line-height: 1.4;
-    }
-    a {
-      color: #0f0;
-      text-decoration: underline;
-    }
-    header, section, footer {
-      max-width: 800px;
-      margin: 0 auto 2rem;
-      text-align: center;
-    }
-    header img.wave {
-      width: 48px;
-      filter: drop-shadow(0 0 4px #0f0);
-    }
-    header h1 {
-      margin: 0.5rem 0;
-      font-size: 2.5rem;
-    }
-    #typing {
-      display: inline-block;
-      border-right: 2px solid #0f0;
-      animation: blink 1s steps(2) infinite;
-    }
-    @keyframes blink { 50% { border-color: transparent; } }
-    hr {
-      border: none;
-      border-top: 1px solid #0f0;
-      margin: 2rem 0;
-    }
-    .badges img {
-      vertical-align: middle;
-      margin: 0 0.5rem;
-      filter: drop-shadow(0 0 3px #0f0);
-    }
-  </style>
-  <header>
-    <img class="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="👋"/>
-    <h1>Hi there, I’m Jake Bajenting</h1>
-    <p><span id="typing">Full Stack Developer</span> based in the Philippines</p>
-    <p>Volunteering at <a href="https://www.facebook.com/AIPilipinasCebu" target="_blank">AI Pilipinas Cebu Chapter</a></p>
-    <p>I love solving tech problems and building projects around JavaScript, Python, Django, and more.</p>
-  </header>
+# Jake Bajenting
 
-  <hr/>
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-–%230F0?style=for-the-badge&logo=appveyor&logoColor=black)
 
-  <section>
-    <p>🌱 <strong>Currently learning:</strong> Next.js, Express.js, advanced backend patterns</p>
-    <p>🤝 <strong>Open for:</strong> Collaborations & volunteering</p>
-    <p>💬 <strong>Reach me at:</strong> <a href="mailto:bajentingjackie@gmail.com">bajentingjackie@gmail.com</a></p>
-  </section>
+**Based in the Philippines**  
+**Volunteering at [AI Pilipinas Cebu Chapter](https://www.facebook.com/AIPilipinasCebu)**
 
-  <hr/>
+---
 
-  <section>
-    <h3>Connect with Me</h3>
-    <p class="badges">
-      <a href="https://www.linkedin.com/in/jake-bajenting-902947274/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn–0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-      </a>
-      <a href="https://github.com/Cozyx213" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub–161B22?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
-      </a>
-      <a href="mailto:bajentingjackie@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail–D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
-      </a>
-    </p>
-  </section>
+<p align="center">
+  ![Learning: Next.js](https://img.shields.io/badge/Next.js-–%230F0?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Learning: Express.js](https://img.shields.io/badge/Express.js-–%230F0?style=for-the-badge&logo=express&logoColor=black)
+  ![Learning: Backend Patterns](https://img.shields.io/badge/Advanced%20Backend-–%230F0?style=for-the-badge&logo=oracle&logoColor=black)
+</p>
+
+---
+
+## 📫 Reach me at
+
+<p align="center">
+  <a href="mailto:bajentingjackie@gmail.com">
+    ![Gmail](https://img.shields.io/badge/Gmail-–%230F0?style=for-the-badge&logo=gmail&logoColor=black)
+  </a>
+  <a href="https://github.com/Cozyx213" target="_blank">
+    ![GitHub](https://img.shields.io/badge/GitHub-–%230F0?style=for-the-badge&logo=github&logoColor=black)
+  </a>
+  <a href="https://www.linkedin.com/in/jake-bajenting-902947274/" target="_blank">
+    ![LinkedIn](https://img.shields.io/badge/LinkedIn-–%230F0?style=for-the-badge&logo=linkedin&logoColor=black)
+  </a>
+</p>
+
+---
+
+```bash
+# Hello, traveler—welcome to my digital lair.
+echo "Solving tech problems with JavaScript, Python, Django, and more."
 
 ---
 
