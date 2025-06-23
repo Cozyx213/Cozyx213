@@ -67,14 +67,6 @@
 </p>-->
 
 ---
-
-### **💡 Fun Fact**
-🚀 I’m currently exploring google cloud platform and expanding my skillset in cloud technologies.
-
+ I’m currently exploring google cloud platform and expanding my skillset in cloud technologies.
 ---
 
-### **💻 Code Snippet**
-
-javascript
-const greet = (name) => console.log(Hello, ${name}! 👋);
-greet("Jake Bajenting");
