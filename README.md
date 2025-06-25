@@ -5,6 +5,7 @@
   <img src="/moon.png" alt="Pixel Art Banner" style="width:100%;" />
 </p>
 -->
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" id="wave-hand">
 </p>
@@ -17,9 +18,9 @@
   I love solving tech problems and building projects around JavaScript, Python, Django, and more.
 </p>
 
----
 
-<!-- Badges or quick info -->
+
+
 <p align="center">
   <em>
     🌱 <strong>Currently learning:</strong> Next.js, Express.js, and advanced backend patterns <br/>
@@ -64,7 +65,7 @@
   <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   <img class="glowing-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-plain.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>
   <img class="icon" src="https://ollama.com/public/ollama.png" title="Ollama" alt="Ollama" width="40" height="40"/>
-</p>-->
+</p>
 
 ---
  I’m currently exploring google cloud platform and expanding my skillset in cloud technologies.
