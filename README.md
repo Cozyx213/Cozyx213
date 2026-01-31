@@ -59,19 +59,10 @@
   <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
   <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="40" height="40"/>
-  <!--
-  <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-  <img class="glowing-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-plain.svg" title="Arch Linux" alt="Arch Linux" width="40" height="40"/>
-  <img class="icon" src="https://ollama.com/public/ollama.png" title="Ollama" alt="Ollama" width="40" height="40"/>
-</p>
 
----
- I’m currently exploring google cloud platform and expanding my skillset in cloud technologies.
----
 
 <div align="center">
 
-  <!-- Venom/Virus-style animated SVG (GitHub-safe: no JS, only SVG) -->
   <svg width="320" height="220" viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated venom virus">
     <defs>
       <radialGradient id="goo" cx="50%" cy="45%" r="65%">
@@ -79,7 +70,6 @@
         <stop offset="55%" stop-color="#22C55E" stop-opacity="0.55"/>
         <stop offset="100%" stop-color="#0B3D1E" stop-opacity="0.25"/>
       </radialGradient>
-
       <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
         <feGaussianBlur stdDeviation="3" result="blur"/>
         <feColorMatrix in="blur" type="matrix"
@@ -92,8 +82,6 @@
           <feMergeNode in="SourceGraphic"/>
         </feMerge>
       </filter>
-
-      <!-- Gentle “breathing” pulse -->
       <animateTransform id="pulse"
         attributeName="transform"
         attributeType="XML"
@@ -101,8 +89,6 @@
         values="1;1.05;0.98;1"
         dur="2.8s"
         repeatCount="indefinite" />
-
-      <!-- Floating drift -->
       <animateTransform id="float"
         attributeName="transform"
         attributeType="XML"
@@ -111,8 +97,6 @@
         dur="5.5s"
         repeatCount="indefinite" />
     </defs>
-
-    <!-- Group wrapper for float + pulse -->
     <g transform="translate(160 110)" filter="url(#softGlow)">
       <g>
         <animateTransform attributeName="transform" type="translate"
@@ -122,8 +106,6 @@
           <animateTransform attributeName="transform" type="scale"
             values="1;1.05;0.98;1"
             dur="2.8s" repeatCount="indefinite" />
-
-          <!-- Outer spiky “venom shell” -->
           <path fill="url(#goo)" opacity="0.92">
             <animate attributeName="d" dur="3.2s" repeatCount="indefinite"
               values="
@@ -140,7 +122,6 @@
               C-34,-46 -30,-66 -14,-60
               C-2,-56 -14,-70 0,-68
               Z;
-
               M0,-70
               C16,-60 28,-58 42,-56
               C56,-54 58,-40 54,-30
@@ -154,7 +135,6 @@
               C-32,-52 -28,-66 -10,-60
               C2,-56 -14,-72 0,-70
               Z;
-
               M0,-68
               C18,-62 26,-54 42,-58
               C54,-62 60,-46 56,-34
@@ -170,12 +150,9 @@
               Z
               " />
           </path>
-
-          <!-- Inner core -->
           <circle r="28" fill="#0A2A16" opacity="0.55">
             <animate attributeName="r" values="26;29;26" dur="2.8s" repeatCount="indefinite" />
           </circle>
-
           <!-- Orbiting “atom” dots -->
           <g opacity="0.9">
             <ellipse rx="58" ry="22" fill="none" stroke="#86EFAC" stroke-opacity="0.45" stroke-width="2">
@@ -184,7 +161,6 @@
             <ellipse rx="50" ry="18" fill="none" stroke="#4ADE80" stroke-opacity="0.35" stroke-width="2">
               <animateTransform attributeName="transform" type="rotate" values="360;0" dur="7.5s" repeatCount="indefinite"/>
             </ellipse>
-
             <circle r="5" cx="58" cy="0" fill="#BBF7D0">
               <animateTransform attributeName="transform" type="rotate" values="0;360" dur="6s" repeatCount="indefinite"/>
             </circle>
@@ -192,7 +168,6 @@
               <animateTransform attributeName="transform" type="rotate" values="360;0" dur="7.5s" repeatCount="indefinite"/>
             </circle>
           </g>
-
           <!-- Subtle “pulse ring” -->
           <circle r="34" fill="none" stroke="#A7F3D0" stroke-opacity="0.35" stroke-width="2">
             <animate attributeName="r" values="30;48" dur="1.8s" repeatCount="indefinite"/>
