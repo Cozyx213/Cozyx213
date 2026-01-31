@@ -5,7 +5,7 @@
   <img src="/moon.png" alt="Pixel Art Banner" style="width:100%;" />
 </p>
 -->
-<!--
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" id="wave-hand">
 </p>
