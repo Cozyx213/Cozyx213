@@ -36,9 +36,7 @@
   <a href="https://www.linkedin.com/in/jake-bajenting-902947274/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Cozyx213">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
-  </a>
+ 
   <a href="mailto:bajentingjackie@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
