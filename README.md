@@ -13,8 +13,6 @@
 <h1 align="center">Hi there, I’m Jake Bajenting</h1>
 
 <p align="center">
-  <strong id="typing-text">Full Stack Developer</strong> based in the Philippines,
-  currently volunteering at <a href="https://www.facebook.com/AIPilipinasCebu">AI Pilipinas Cebu Chapter</a>.<br/>
   I love solving tech problems and building projects around JavaScript, Python, Django, and more.
 </p>
 
@@ -23,7 +21,6 @@
 
 <p align="center">
   <em>
-    🌱 <strong>Currently learning:</strong> Next.js, Express.js, and advanced backend patterns <br/>
     🤝 <strong>Open for:</strong> Collaborations & volunteering <br/>
     💬 <strong>Reach me at:</strong> bajentingjackie@gmail.com <br/>
   </em>
