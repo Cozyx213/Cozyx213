@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./moon.png" alt="Pixel art moonlit night banner" width="70%" />
+  <img src="./moon.png" alt="Pixel art moonlit night banner" width="50%" />
 </div>
 
 <br />
