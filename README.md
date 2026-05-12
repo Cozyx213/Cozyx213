@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./moon.png" alt="Pixel art moonlit night banner" width="100%" />
+  <img src="./moon.png" alt="Pixel art moonlit night banner" width="70%" />
 </div>
 
 <br />
@@ -66,12 +66,21 @@
 <h2 align="center">GitHub Snapshot</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cozyx213&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jake's GitHub stats" />
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cozyx213&theme=tokyonight" alt="Jake's GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cozyx213&theme=tokyonight" alt="Jake's repositories by language" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cozyx213&theme=tokyonight" alt="Jake's most committed languages" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cozyx213&theme=tokyonight" alt="Jake's GitHub stats summary" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Cozyx213&theme=tokyonight&hide_border=true" alt="Jake's GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cozyx213&layout=compact&theme=tokyonight&hide_border=true" alt="Jake's most used languages" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cozyx213&theme=tokyo-night&hide_border=true&area=true" alt="Jake's GitHub activity graph" />
 </p>
 
 ---
@@ -87,3 +96,9 @@
 <p align="center">
   <sub>Thanks for visiting. Build something cozy, ship something useful.</sub>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!;Build+something+cozy.;Ship+something+useful." alt="Animated typing message" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22c55e&height=120&section=footer&animation=twinkling" alt="Animated wave footer" />
