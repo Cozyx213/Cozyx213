@@ -18,10 +18,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jake-bajenting-902947274/">
-    <img src="https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=1E1E2E&labelColor=1E1E2E" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-89B4FA?style=for-the-badge&logo=linkedin&logoColor=89B4FA&labelColor=1E1E2E" alt="LinkedIn" />
   </a>
   <a href="mailto:bajentingjackie@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E&labelColor=1E1E2E" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-F38BA8?style=for-the-badge&logo=gmail&logoColor=F38BA8&labelColor=1E1E2E" alt="Email me on Gmail" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Cozyx213&style=for-the-badge&color=CBA6F7&labelColor=1E1E2E" alt="Profile views" />
 </p>
@@ -66,13 +66,13 @@
 <h2 align="center">GitHub Snapshot</h2>
 
 <p align="center">
-  <img width="49%" src="https://ghstats.dev/api/card?username=Cozyx213&theme=catppuccin&hide_border=true&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="Jake's Catppuccin Mocha GitHub stats" />
-  <img width="49%" src="https://ghstats.dev/api/langs?username=Cozyx213&theme=catppuccin&hide_border=true&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="Jake's Catppuccin Mocha language stats" />
+  <img align="top" width="49%" src="https://ghstats.dev/api/card?username=Cozyx213&theme=catppuccin&hide_border=true&size=compact&hide=followers,active_day,week,avg,trend&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="Jake's Catppuccin Mocha GitHub stats" />
+  <img align="top" width="49%" src="https://ghstats.dev/api/langs?username=Cozyx213&theme=catppuccin&hide_border=true&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="Jake's Catppuccin Mocha language stats" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://ghstats.dev/api/sparkline?username=Cozyx213&theme=catppuccin&hide_border=true&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="Jake's Catppuccin Mocha contribution sparkline" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Cozyx213&theme=catppuccin-mocha&hide_border=true" alt="Jake's Catppuccin Mocha GitHub streak" />
+  <img align="top" width="49%" src="https://ghstats.dev/api/sparkline?username=Cozyx213&theme=catppuccin&hide_border=true&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="Jake's Catppuccin Mocha contribution sparkline" />
+  <img align="top" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Cozyx213&theme=catppuccin-mocha&hide_border=true" alt="Jake's Catppuccin Mocha GitHub streak" />
 </p>
 
 <p align="center">
