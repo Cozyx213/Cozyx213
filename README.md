@@ -18,12 +18,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jake-bajenting-902947274/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-89B4FA?style=for-the-badge&logo=linkedin&logoColor=1E1E2E&labelColor=1E1E2E" alt="LinkedIn" />
   </a>
   <a href="mailto:bajentingjackie@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-F38BA8?style=for-the-badge&logo=gmail&logoColor=1E1E2E&labelColor=1E1E2E" alt="Gmail" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Cozyx213&style=for-the-badge&color=22c55e" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Cozyx213&style=for-the-badge&color=CBA6F7&labelColor=1E1E2E" alt="Profile views" />
 </p>
 
 ---
@@ -66,21 +66,17 @@
 <h2 align="center">GitHub Snapshot</h2>
 
 <p align="center">
-  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cozyx213&theme=tokyonight" alt="Jake's GitHub profile summary" />
+  <img width="49%" src="https://ghstats.dev/api/card?username=Cozyx213&theme=catppuccin&hide_border=true&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="Jake's Catppuccin Mocha GitHub stats" />
+  <img width="49%" src="https://ghstats.dev/api/langs?username=Cozyx213&theme=catppuccin&hide_border=true&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="Jake's Catppuccin Mocha language stats" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cozyx213&theme=tokyonight" alt="Jake's repositories by language" />
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cozyx213&theme=tokyonight" alt="Jake's most committed languages" />
+  <img width="49%" src="https://ghstats.dev/api/sparkline?username=Cozyx213&theme=catppuccin&hide_border=true&bg=1e1e2e&text=cdd6f4&title_color=cba6f7&icon_color=89b4fa&border_color=313244" alt="Jake's Catppuccin Mocha contribution sparkline" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Cozyx213&theme=catppuccin-mocha&hide_border=true" alt="Jake's Catppuccin Mocha GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cozyx213&theme=tokyonight" alt="Jake's GitHub stats summary" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Cozyx213&theme=tokyonight&hide_border=true" alt="Jake's GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cozyx213&theme=tokyo-night&hide_border=true&area=true" alt="Jake's GitHub activity graph" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cozyx213&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=89b4fa&area=true&area_color=cba6f7&title_color=89b4fa&hide_border=true" alt="Jake's Catppuccin Mocha GitHub activity graph" />
 </p>
 
 ---
@@ -98,7 +94,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!;Build+something+cozy.;Ship+something+useful." alt="Animated typing message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=CBA6F7&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!;Build+something+cozy.;Ship+something+useful." alt="Catppuccin Mocha animated typing message" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22c55e&height=120&section=footer&animation=twinkling" alt="Animated wave footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,45:cba6f7,100:89b4fa&height=120&section=footer&animation=twinkling" alt="Catppuccin Mocha animated wave footer" />
